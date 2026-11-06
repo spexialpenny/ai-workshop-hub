@@ -1,0 +1,29 @@
+[
+  {
+    "id": "split-vibe",
+    "title": "SplitVibe 旅程分帳與轉盤",
+    "category": "Web App",
+    "summary": "多人出遊自動平帳，解決誰請客與吃什麼的選擇困難。",
+    "tags": ["Vibe Coding", "Canvas"],
+    "link": "pages/split-vibe.html",
+    "icon": "🎡"
+  },
+  {
+    "id": "code-review",
+    "title": "Reflection 程式自我審查 Agent",
+    "category": "AI Agent",
+    "summary": "由 AI 自動反省程式碼邊界漏洞並重構高強韌度版本。",
+    "tags": ["Reflection", "Gradio"],
+    "link": "pages/template.html",
+    "icon": "🤖"
+  },
+  {
+    "id": "custom-boss",
+    "title": "主管老陳職場壓力對話模擬器",
+    "category": "LLM App",
+    "summary": "刀子嘴豆腐心的實習主管，先吐槽再給出具體改進步驟。",
+    "tags": ["AI Suite", "Groq API"],
+    "link": "pages/template.html",
+    "icon": "👔"
+  }
+]
